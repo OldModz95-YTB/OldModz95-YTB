@@ -7,7 +7,6 @@ OldModz95
   <a href="https://discord.gg/3t2568W"><img src="https://discordapp.com/api/guilds/465584363489198091/widget.png?style=banner2" alt="Discord server"></a>
   <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discordapp.com/api/guilds/705278191404843051/widget.png?style=banner2" alt="Discord server"></a>
 </p>
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
 ## 📞 Contact me
 
