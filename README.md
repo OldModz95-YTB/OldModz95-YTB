@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/OldModz95-YTB/OldModz95-YTB/main/hi.gif" height="32" />
 OldModz95
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/OldModz95-YTB/OldModz95-YTB/main/hi.gif" height="32" />
 </h1>
 <p align="center">
   <a href="https://discord.gg/3t2568W"><img src="https://discordapp.com/api/guilds/465584363489198091/widget.png?style=banner2" alt="Discord server"></a>
@@ -10,11 +10,6 @@ OldModz95
   <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discordapp.com/api/guilds/705278191404843051/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 
-
-
-<a  href="https://partnernetwork.ionos.fr/partner/protondev?origin=PartnerBadge">
-<img src="https://images-2.partnerportal.ionos.fr/items/9804e0a2-bbf5-4132-a89b-e877b523b61c/profiles/57e0e752-0b0f-4018-bac6-ddbba956f110/badges/normal_blue" alt="IONOS - Partenaire officiel">
-</a>
 <br>
 
 
@@ -22,7 +17,10 @@ OldModz95
 
 [Discord](https://www.discord.gg/3t2568W)
 [Twitter](https://twitter.com/oldmodz95)
-[YouTube](https://www.youtube.com/oldmodz95)
+<br>
+[YouTube (Server Private)](https://exotique.fr2.quickconnect.to/?launchApp=SYNO.SDS.VideoStation.AppInstance#!libOldModz95/N4IgNglgRgTghjAniAXCAFgewLYFMD6AbhACa6YC0A7CADQgDGcALrgOaZKohxhh0gADnDa5UARgC+QA)
+<p>Username: ytb <br>
+Password: oldmodz95</p>
 
 <br />
 
