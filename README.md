@@ -12,7 +12,7 @@ OldModz95
 
 <br>
 
-## 🔧 My infos 
+## 🔧 My Server Discord
 <h1 align="center">
 	<a href="https://discord.gg/3t2568W">
 		<img src="https://image.noelshack.com/fichiers/2021/24/1/1623656062-bannerprifil.png" alt="OldModz95" />
