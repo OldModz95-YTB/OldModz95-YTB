@@ -14,7 +14,7 @@ OldModz95
 
 ## 🔧 My Server Discord
 <h1 align="center">
-	<a href="https://discord.gg/3t2568W">
+	<a href="https://discord.gg/7nGTbdxh">
 		<img src="https://image.noelshack.com/fichiers/2021/24/1/1623656062-bannerprifil.png" alt="OldModz95" />
 	</a>
 	<a href="https://github.com/OldModz95">
@@ -27,7 +27,7 @@ OldModz95
 
 ## 📞 Contact me
 
-[Discord](https://www.discord.gg/3t2568W)
+[Discord](https://www.discord.gg/7nGTbdxh)
 [Twitter](https://twitter.com/oldmodz95)
 <br>
 [YouTube (Server Private)](https://exotique.fr2.quickconnect.to/?launchApp=SYNO.SDS.VideoStation.AppInstance#!libOldModz95/N4IgNglgRgTghjAniAXCAFgewLYFMD6AbhACa6YC0A7CADQgDGcALrgOaZKohxhh0gADnDa5UARgC+QA)
