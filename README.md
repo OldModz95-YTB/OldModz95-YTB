@@ -4,7 +4,7 @@ OldModz95
 <img src="https://raw.githubusercontent.com/OldModz95-YTB/OldModz95-YTB/main/hi.gif" height="32" />
 </h1>
 <p align="center">
-  <a href="https://discord.gg/3t2568W"><img src="https://discordapp.com/api/guilds/902292316033802310/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/MS6TMgRfqB"><img src="https://discordapp.com/api/guilds/902292316033802310/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 <p align="center">
   <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discordapp.com/api/guilds/705278191404843051/widget.png?style=banner2" alt="Discord server"></a>
@@ -14,7 +14,7 @@ OldModz95
 
 ## 🔧 My Server Discord
 <h1 align="center">
-	<a href="https://discord.gg/7nGTbdxh">
+	<a href="https://discord.gg/MS6TMgRfqB">
 		<img src="https://image.noelshack.com/fichiers/2021/24/1/1623656062-bannerprifil.png" alt="OldModz95" />
 	</a>
 	<a href="https://github.com/OldModz95">
@@ -23,6 +23,22 @@ OldModz95
 </h1>
 
 <br>
+
+## &#x1f4c8; GitHub Stats
+
+<h1 align="center">
+<a href="https://github.com/OldModz95-YTB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldModz95-YTB&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</>
+<a href="https://github.com/OldModz95-YTB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OldModz95-YTB&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
+</a>
+<br>
+<a href="https://github.com/OldModz95-YTB">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=OldModz95-YTB&theme=dark&background=1D1F21" />
+<a/>
+<br>
+</h1>
 
 
 ## 📞 Contact me
@@ -46,15 +62,5 @@ Password: oldmodz95</p>
 ###### Operating systems
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=FCC624)
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/OldModz95-YTB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldModz95-YTB&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</>
-<a href="https://github.com/OldModz95-YTB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OldModz95-YTB&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="Crypt0's GitHub Stats" />
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OldModz95-YTB" alt="OldModz95-YTB" /> </p>
