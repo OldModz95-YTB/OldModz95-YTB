@@ -15,7 +15,7 @@ OldModz95
 ## 🔧 My Server Discord
 <h1 align="center">
 	<a href="https://discord.gg/MS6TMgRfqB">
-		<img src="https://image.noelshack.com/fichiers/2021/24/1/1623656062-bannerprifil.png" alt="OldModz95" />
+		<img src="https://i.ibb.co/0YCY5KD/banner-discord-dev.png" alt="OldModz95" />
 	</a>
 	<a href="https://github.com/OldModz95">
 	<br>
