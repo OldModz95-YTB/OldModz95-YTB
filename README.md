@@ -9,6 +9,12 @@ OldModz95
 <p align="center">
   <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discordapp.com/api/guilds/705278191404843051/widget.png?style=banner2" alt="Discord server"></a>
 </p>
+<br>
+<br>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=OldModz95-YTB&no-frame=true&column=3&margin-w=15&margin-h=15&theme=onestar" />
+</p>
 
 <br>
 
