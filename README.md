@@ -10,6 +10,13 @@ OldModz95
   <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discordapp.com/api/guilds/705278191404843051/widget.png?style=banner2" alt="Discord server"></a>
 </p>
 <br>
+<center>
+<a href="https://status.watchbot.app/bot/920916816166019103">
+  <img src="https://api.watchbot.app/bot/920916816166019103/widget?theme=dark" alt="undefined" />
+</a>
+</center>
+
+<br>
 <br>
 
 <p align="center">
