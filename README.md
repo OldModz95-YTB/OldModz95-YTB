@@ -9,12 +9,15 @@ OldModz95
 <p align="center">
   <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discordapp.com/api/guilds/705278191404843051/widget.png?style=banner2" alt="Discord server"></a>
 </p>
-<br>
-<center>
+<p align="center">
+  <a href="https://discord.gg/M3sTyHtcK4"><img src="https://discord.c99.nl/widget/theme-2/902278011691368458.png" alt="Profil Discord"></a>
+</p>
+<p align="center">
 <a href="https://status.watchbot.app/bot/920916816166019103">
   <img src="https://api.watchbot.app/bot/920916816166019103/widget?theme=dark" alt="undefined" />
 </a>
-</center>
+</p>
+<br>
 
 <br>
 <br>
