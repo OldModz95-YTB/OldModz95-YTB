@@ -59,14 +59,10 @@ OldModz95
 
 ## 📞 Contact me
 
-[Discord](https://www.discord.gg/7nGTbdxh)
+[Discord](https://www.discord.gg/7nGTbdxh) <br>
 [Twitter](https://twitter.com/oldmodz95)
 <br>
-[YouTube (Server Private)](https://exotique.fr2.quickconnect.to/?launchApp=SYNO.SDS.VideoStation.AppInstance#!libOldModz95/N4IgNglgRgTghjAniAXCAFgewLYFMD6AbhACa6YC0A7CADQgDGcALrgOaZKohxhh0gADnDa5UARgC+QA)
-<p>Username: ytb <br>
-Password: oldmodz95</p>
-
-<br />
+<br/>
 
 ## 🔧 Technologies & Tools
 
